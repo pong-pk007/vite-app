@@ -1,8 +1,11 @@
 # VITE Example project create React App
 
-1. npm create vite@latest vite-app [select React -> Javascript]
+1. create project.
+```
+$ npm create vite@latest vite-app // and [select React -> Javascript]
+```
 2. cd vite-app
-3. code .
+3. code . // for open vscode.
 4. install library.
 
 ```
